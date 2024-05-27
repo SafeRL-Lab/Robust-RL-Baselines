@@ -20,4 +20,4 @@
 
 
 #### 2. Robust Multi-Agent RL Baselines
-
+- Weaponizing Actions in Multi-Agent Reinforcement Learning: Theoretical and Empirical Study on Security and Robustness [Paper](https://link.springer.com/chapter/10.1007/978-3-031-21203-1_21), [Code](https://github.com/frank47ltt/MARL_Robustness), (Accepted by PRIMA 2022)
