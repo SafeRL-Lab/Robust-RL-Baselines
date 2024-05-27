@@ -4,12 +4,17 @@
 
 #### 1. Robust Single Agent RL Baselines
 
+- Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning, Paper (To be released), [Code](https://github.com/iwhwang/Fine-Grained-Causal-RL), (Accepted by ICML 2024)
 - Towards Robust Offline Reinforcement Learning under Diverse Data Corruption, [Paper](https://arxiv.org/pdf/2310.12955), [Code](https://github.com/YangRui2015/RIQL), (Accepted by ICLR 2024)
+- Robust Offline Reinforcement Learning with Heavy-Tailed Rewards, [Paper](https://proceedings.mlr.press/v238/zhu24a/zhu24a.pdf), [Code](https://github.com/Mamba413/ROOM), (Accepted by AISTATS 2024)
 - Causal Counterfactuals for Improving the Robustness of Reinforcement Learning, [Paper](https://arxiv.org/pdf/2211.05551), [Code](https://github.com/Tom1042roboai/CausalCF), (Accepted by AAMAS 2023)
+- RAMRL: Towards Robust On-Ramp Merging via Augmented Multimodal Reinforcement Learning, [Paper](https://arxiv.org/pdf/2208.07307), [Code](https://github.com/grbagwe/RAMRL), (Accepted by MOST 2023)
 - Robust Deep Reinforcement Learning through Bootstrapped Opportunistic Curriculum, [Paper](https://arxiv.org/pdf/2206.10057.pdf), [Code](https://github.com/jlwu002/BCL), (Accepted by ICML 2022)
 - Robust offline Reinforcement Learning via Conservative Smoothing, [Paper](https://arxiv.org/pdf/2206.02829), [Code](https://github.com/YangRui2015/RORL), (Accepted by NeurIPS 2022)
+- Robust On-Policy Sampling for Data-Efficient Policy Evaluation in Reinforcement Learning, [Paper](https://arxiv.org/pdf/2111.14552), [Code](https://github.com/uoe-agents/robust_onpolicy_data_collection),  (Accepted by NeurIPS 2022)
 - Robust Reinforcement Learning using Offline Data, [Paper](https://arxiv.org/pdf/2208.05129), [Code](https://github.com/zaiyan-x/RFQI), (Accepted by NeurIPS 2022)
 - CROP: Certifying Robust Policies for Reinforcement Learning through Functional Smoothing, [Paper](https://arxiv.org/pdf/2106.09292), [Code](https://github.com/AI-secure/CROP), (Accepted by ICLR 2022)
+- COPA: Certifying Robust Policies for Offline Reinforcement Learning against Poisoning Attacks, [Paper](https://arxiv.org/pdf/2203.08398), [Code](https://github.com/AI-secure/COPA),  (Accepted by ICLR 2022)
 - Robust Risk-Aware Reinforcement Learning, [Paper](https://arxiv.org/pdf/2108.10403), [Code](https://github.com/sebjai/robust-risk-aware-rl), (Accepted by SIAM Journal on Financial Mathematics, 2022)
 - Efficient Adversarial Training without Attacking: Worst-Case-Aware Robust Reinforcement Learning, [Paper](https://arxiv.org/pdf/2210.05927), [Code](https://github.com/umd-huang-lab/WocaR-RL), (Accepted by NeurIPS 2022)
 - Robust Deep Reinforcement Learning through Adversarial Loss, [Paper](https://arxiv.org/pdf/2008.01976), [Code](https://github.com/tuomaso/radial_rl_v2), (Accepted by NeurIPS 2021) 
