@@ -3,8 +3,8 @@
 
 
 #### 1. Robust Single Agent RL Baselines
-
-- Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning, Paper (To be released), [Code](https://github.com/iwhwang/Fine-Grained-Causal-RL), (Accepted by ICML 2024)
+- Breaking the Barrier: Enhanced Utility and Robustness in Smoothed DRL Agents, [Paper](https://arxiv.org/pdf/2406.18062), [Code](https://github.com/Trustworthy-ML-Lab/Robust_HighUtil_Smoothed_DRL)
+- Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning, [Paper](https://arxiv.org/pdf/2406.03234), [Code](https://github.com/iwhwang/Fine-Grained-Causal-RL), (Accepted by ICML 2024)
 - Towards Robust Offline Reinforcement Learning under Diverse Data Corruption, [Paper](https://arxiv.org/pdf/2310.12955), [Code](https://github.com/YangRui2015/RIQL), (Accepted by ICLR 2024)
 - Robust Offline Reinforcement Learning with Heavy-Tailed Rewards, [Paper](https://proceedings.mlr.press/v238/zhu24a/zhu24a.pdf), [Code](https://github.com/Mamba413/ROOM), (Accepted by AISTATS 2024)
 - Causal Counterfactuals for Improving the Robustness of Reinforcement Learning, [Paper](https://arxiv.org/pdf/2211.05551), [Code](https://github.com/Tom1042roboai/CausalCF), (Accepted by AAMAS 2023)
